@@ -53,3 +53,5 @@ Este repositorio contiene actividades prácticas y teóricas de la asignatura **
 
 📚 Uso académico / prácticas de clase  
 🌐 Orientado al aprendizaje de servicios, plataformas y aplicaciones web modernas
+
+<a href="https://drive.google.com/drive/folders/1YG9AS83ATdPN_PJcAs08cJWqEXL05Rwf?usp=sharing">CARPETA CON TODOS LOS ARCHIVOS</a>
